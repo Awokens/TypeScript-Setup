@@ -1,6 +1,6 @@
 # TypeScript VSC Setup
 
-This repository is simply a dev environmen, enjoy.
+This repository is simply a TypeScript dev environment for Visual Studio Code, enjoy.
 
 ## Installation
 
